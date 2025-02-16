@@ -1,2 +1,3 @@
 where aktywnosc
 2
+b
